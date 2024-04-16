@@ -17,6 +17,8 @@ public class ParImparZero {
             System.out.println("O número é impar");
         }
         
+        scanner.close();
+
     }
     
 }

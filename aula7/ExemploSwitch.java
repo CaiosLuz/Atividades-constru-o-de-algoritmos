@@ -19,5 +19,7 @@ public class ExemploSwitch {
             default:
                 System.out.println("Ivalido");
         }
+
+        scanner.close();
     }
 }
